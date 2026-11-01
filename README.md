@@ -161,16 +161,20 @@ An AI-powered insurance assistant that simplifies policy understanding and suppo
 ---
 
 ## 🏆 Hackathons
-<details>
-  <summary><b>View Recent Hackathons</b></summary>
 
-  <br>
+<details>
+<summary><b>View Recent Hackathons</b></summary>
+
+<br>
+
 | Date | Project | Event |
-|---|---|---|
+|:---|:---|:---|
 | Oct 2026 | ZeroTrace AI | SVIT HackFest Hackathon |
+| Oct 2026 | Redrob AI Candidate Ranker | Redrob AI Hackathon |
 | May 2026 | Persistent Context Engine for AI SRE | Scaler ASCENT Anvil Hackathon |
 | Mar 2026 | Insurance Copilot | AI-RENA Hackathon |
 | Feb 2026 | Travel Genie AI | Online Hackathon |
+
 </details>
 
 ---
