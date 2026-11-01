@@ -1,8 +1,14 @@
+<div align="center">
+
 # Gagan H R
 
 ### Full-Stack Developer · Mobile Developer · AI & Security Enthusiast
 
 Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy building practical software products, exploring emerging technologies, and turning ideas into working applications.
+
+**Open to internships in software development and AI/ML.**
+
+</div>
 
 ---
 
@@ -12,8 +18,8 @@ Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy buildi
 - 🚀 Interested in building scalable applications and solving real-world problems.
 - 🤖 Exploring AI, LLMs, RAG systems, and intelligent agents.
 - 🔐 Interested in application security, privacy engineering, and secure software development.
-- 🏆 Participated in multiple hackathons and collaborated on building real-world prototypes.
-- 📚 Continuously improving my problem-solving and software development skills.
+- 🏆 Shipped four hackathon projects in 2026, working in small teams.
+- 📚 Continuously improving my problem-solving, testing, and software design skills.
 
 ---
 
@@ -28,7 +34,7 @@ Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy buildi
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite&theme=dark" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,flutter&theme=dark" alt="Frontend and mobile technologies" />
 </p>
 
 ### Backend Development & Databases
@@ -37,7 +43,7 @@ Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy buildi
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,firebase,postgres,mysql,sqlite&theme=dark" alt="Backend and database technologies" />
 </p>
 
-### AI, Security & Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&theme=dark" alt="Developer tools" />
@@ -49,52 +55,38 @@ Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy buildi
 
 ## 🚀 Featured Projects
 
-### 1. ZeroTrace AI — Application Security Workbench
+### 1. ZeroTrace AI — Application Security Workbench · Oct 2026
 
-An application security workbench designed to identify vulnerabilities, monitor runtime security events, and assist developers with remediation.
+A hackathon prototype that connects three stages of security work in one interface: source-code analysis, runtime-event monitoring, and remediation review.
 
-- Static analysis of Java source code.
-- Runtime security event monitoring.
-- Detection and explanation of potential vulnerabilities.
-- AI-assisted fix proposals with developer review.
+- Semgrep-based static analysis of uploaded Java source archives, with findings shown for human review.
+- Rule-based runtime-event alerts (for example, 3+ access-denied events for the same actor within 5 minutes).
+- Remediation proposal review with a SQL-injection demo that uses parameterized queries.
+- REST APIs across three Spring Boot services and a React interface.
 
-**Tech:** Java · Spring Boot · React · Semgrep
+**Tech:** Java · Spring Boot · React · Vite · Semgrep
 
 [View Repository](https://github.com/Hackfest-X-Saividya/sentrix-t2-12)
 
-### 2. TRUSTTRACE AI — Privacy Policy Analyzer
+### 2. Persistent Context Engine for AI SRE · May 2026
 
-A Chrome extension that analyzes website privacy policies and highlights potential privacy risks.
+An incident-memory system built with a team of four for the Scaler ASCENT Anvil Hackathon.
 
-- Discovers and extracts website privacy policies.
-- Analyzes policy content using RAG-based techniques.
-- Identifies potential risks against India's DPDP Act 2023 and GDPR.
-- Presents risk flags and relevant policy clauses in understandable language.
-
-**Tech:** Python · FastAPI · RAG · ChromaDB · Chrome Extension
-
-[View Repository](https://github.com/GaganHR2006/trusttrace-ai)
-
-### 3. Persistent Context Engine for AI SRE
-
-An incident-memory system developed for the Scaler ASCENT Anvil Hackathon.
-
-- Maintains contextual memory across service incidents.
-- Resolves service identities even when service names change.
-- Supports incident retrieval and remediation workflows.
-- Achieved p95 latency below 1 ms and recall@5 of 1.000 in the reported evaluation.
+- Shows on-call engineers what broke, why, and what fixed it before.
+- Resolves service identities even when service names change, preserving incident history.
+- Reached recall@5 of 1.000 and p95 latency under 1 ms in the reported evaluation.
+- Pure Python, with no ML models or external dependencies.
 
 **Tech:** Python · Information Retrieval · Context Engineering
 
 [View Repository](https://github.com/GaganHR2006/Anvil-P02-Context-Engine)
 
-### 4. AutoSpend — Personal Finance Tracker
+### 3. AutoSpend — Personal Finance Tracker · Dec 2025 – Feb 2026
 
-A privacy-first personal finance application designed to help users understand and manage their spending.
+A privacy-first personal finance app that helps users understand and manage their spending.
 
-- On-device bank SMS parsing.
-- Automatic transaction categorization.
-- Duplicate transaction detection.
+- On-device bank SMS parsing, so no financial data leaves the phone.
+- Automatic UPI transaction categorization (90% accuracy) and duplicate-transaction detection.
 - Budget tracking, lending records, and spending analytics.
 - Designed around offline-first operation and data privacy.
 
@@ -102,20 +94,9 @@ A privacy-first personal finance application designed to help users understand a
 
 [View Repository](https://github.com/GaganHR2006/AutoSpend-Tracker)
 
-### 5. CareVibe — Elderly Health Monitoring
+### 4. Insurance Copilot · Mar 2026
 
-A health-monitoring solution focused on improving elderly safety and well-being through connected technology.
-
-- Real-time health monitoring.
-- Fall-detection and emergency alert concepts.
-- Designed to support caregivers with timely notifications.
-
-**Tech:** Flutter · Dart · Firebase
-
-[View Repository](https://github.com/GaganHR2006/CareVibe-App)
-
-### 6. Insurance Copilot
-An AI-powered insurance assistant designed to simplify policy understanding and support insurance workflows.
+An AI-powered insurance assistant that simplifies policy understanding and supports insurance workflows, built with Team Axioms.
 
 - RAG-based insurance policy question answering.
 - Coverage information extraction.
@@ -132,41 +113,67 @@ An AI-powered insurance assistant designed to simplify policy understanding and 
 <details>
   <summary><b>View additional projects</b></summary>
 
-  ### Travel Genie AI
-  An AI-powered travel planning application that helps users explore and organize travel experiences.
+  <br>
+
+  ### CareVibe — Elderly Health Monitoring · Jan 2025
+
+  A cross-platform health-monitoring app focused on elderly safety and well-being.
+  
+  - Real-time vitals monitoring.
+  - Automated fall-detection emergency alerts that notify caregivers.
+  
+  **Tech:** Flutter · Dart · Firebase
+
+  ### Travel Genie AI · Feb 2026
+
+  An AI-powered travel companion web app built with 3 teammates for a hackathon. It uses dynamic UI to generate interactive interface components.
 
   **Tech:** Next.js · React · JavaScript · Groq API · Llama 3 · Tambo AI
 
-  ### Flight Crew Scheduling System
+  ### Flight Crew Scheduling System · Nov – Dec 2025
 
-  A scheduling solution designed to support airline crew planning and operational compliance.
+  A scheduling application that supports airline crew planning and operational compliance.
 
-  - DGCA Flight Duty Time Limitations (FDTL) compliance validation.
-  - Crew scheduling and disruption recovery.
-  - Rescheduling support for operational changes.
+  - Converts DGCA Flight Duty Time Limitation (FDTL) regulations into validation rules.
+  - Reschedules crew automatically when a disruption breaks a rule.
 
-**Tech:** Python · FastAPI · Next.js
+  **Tech:** Python · FastAPI · Next.js
 
-  ### AI-Based Resume Analyzer & Job Matching System
-  Designed a SQL database architecture for resume parsing, structured candidate information, and job-matching workflows.
+  ### AI-Based Resume Analyzer & Job Matching System · Oct – Dec 2025
 
+  Designed the SQL database architecture for resume parsing, structured candidate data, and job-matching workflows.
 
   ### DAA Algorithm Projects
-  Academic implementations and experiments involving data structures, graph algorithms, dynamic programming, and algorithmic problem-solving.
+
+  Academic implementations of data structures, graph algorithms, dynamic programming, and algorithmic problem-solving.
 
   **Language:** C
 
 </details>
 
----
-
-## 🏆 Hackathons & Achievements
-
-- Participated in multiple hackathons, collaborating on AI, security, and software engineering solutions.
-- Built and presented projects including Travel Genie AI, Insurance Copilot, Persistent Context Engine, and ZeroTrace AI.
-- Worked on application security, AI-powered automation, RAG systems, and intelligent software solutions.
+<!-- Add repository links for Travel Genie AI, Flight Crew Scheduling and the Resume Analyzer when the repos are public. -->
 
 ---
+
+## 🏆 Hackathons
+
+| Date | Project | Event |
+|---|---|---|
+| Oct 2026 | ZeroTrace AI | SVIT HackFest Hackathon |
+| May 2026 | Persistent Context Engine for AI SRE | Scaler ASCENT Anvil Hackathon |
+| Mar 2026 | Insurance Copilot | AI-RENA Hackathon |
+| Feb 2026 | Travel Genie AI | Online Hackathon |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=GaganHR2006&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=GaganHR2006&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
+
+</div>
 
 ---
 
@@ -182,11 +189,17 @@ An AI-powered insurance assistant designed to simplify policy understanding and 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/GaganHR2006">
-    <img src="https://img.icons8.com/fluency/96/github.png" width="45" height="45" alt="GitHub" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-glyphs/100/FFFFFF/github.png">
+      <img src="https://img.icons8.com/ios-glyphs/100/000000/github.png" width="45" height="45" alt="GitHub" />
+    </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/GaganHR84111">
-    <img src="https://img.icons8.com/ios-filled/100/FFFFFF/twitterx.png" width="45" height="45" alt="X" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/100/FFFFFF/twitterx.png">
+      <img src="https://img.icons8.com/ios-filled/100/000000/twitterx.png" width="45" height="45" alt="X" />
+    </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:gagangagan3352@gmail.com">
