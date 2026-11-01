@@ -217,5 +217,5 @@ An AI-powered insurance assistant that simplifies policy understanding and suppo
 </p>
 
 <p align="center">
-  <i>Building, learning, and creating — one project at a time.</i>
+  <i>Building, learning, and creating - one project at a time.</i>
 </p>
