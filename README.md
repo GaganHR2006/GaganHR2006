@@ -46,7 +46,7 @@ Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy buildi
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&theme=dark" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux," alt="Developer tools" />
 </p>
 
 **Additional areas:** LangChain · RAG · Vector Databases · Groq API · Llama 3 · Prompt Engineering · Semgrep · REST APIs · Data Structures & Algorithms · OOP
