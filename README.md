@@ -1,104 +1,206 @@
-<div align="center">
-
 # Gagan H R
 
-### Full-Stack & Mobile Developer
+### Full-Stack Developer · Mobile Developer · AI & Security Enthusiast
 
-Computer Science undergraduate at REVA University, Bengaluru · Hackathon builder · Open to internships
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaganhr2006)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/GaganHR84111)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gagangagan3352@gmail.com)
-
-</div>
+Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy building practical software products, exploring emerging technologies, and turning ideas into working applications.
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate who enjoys turning real problems into working products. I build full-stack web and mobile applications, and in 2026 I shipped four projects at hackathons with small teams. I care about privacy, correctness and clear, maintainable code.
+- 🎓 Pursuing B.Tech in Computer Science & Engineering at REVA University.
+- 🚀 Interested in building scalable applications and solving real-world problems.
+- 🤖 Exploring AI, LLMs, RAG systems, and intelligent agents.
+- 🔐 Interested in application security, privacy engineering, and secure software development.
+- 🏆 Participated in multiple hackathons and collaborated on building real-world prototypes.
+- 📚 Continuously improving my problem-solving and software development skills.
 
-- 🎓 B.Tech in Computer Science & Engineering, REVA University
-- 🔭 Building with Flutter, React, Spring Boot, FastAPI and LLM APIs
-- 🌱 Currently strengthening my data structures and algorithms, testing and clean architecture
-- 💼 Looking for internship opportunities in software development and AI/ML
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,dart&theme=dark" alt="Programming languages" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite&theme=dark" alt="Frontend technologies" />
+</p>
+
+### Backend Development & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,firebase,postgres,mysql,sqlite&theme=dark" alt="Backend and database technologies" />
+</p>
+
+### AI, Security & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode&theme=dark" alt="Developer tools" />
+</p>
+
+**Additional areas:** LangChain · RAG · Vector Databases · Groq API · Llama 3 · Prompt Engineering · Semgrep · REST APIs · Data Structures & Algorithms · OOP
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| **ZeroTrace AI** · Oct 2026 | A three-phase application security workbench: Semgrep-based static analysis of Java source archives, rule-based runtime-event alerts, and fix-proposal review in one interface. [Repository](https://github.com/Hackfest-X-Saividya/sentrix-t2-12) | Java, Spring Boot, React, Vite, Semgrep |
-| **Persistent Context Engine for AI SRE** · May 2026 | Shows on-call engineers what broke, why, and what fixed it before. Includes an identity resolver that keeps incident history across service renames, with p95 latency under 1 ms and no external dependencies. | Python |
-| **AutoSpend** · Dec 2025 – Feb 2026 | A privacy-first UPI expense tracker. Parses SMS on the device so no financial data leaves the phone, auto-categorizes spending (90% accuracy) and detects duplicate transactions. | Mobile, on-device parsing |
-| **CareVibe** · Jan 2025 | A cross-platform health-monitoring app with real-time vitals and automated fall-detection emergency alerts. | Flutter, Dart, Firebase |
+### 1. ZeroTrace AI — Application Security Workbench
+
+An application security workbench designed to identify vulnerabilities, monitor runtime security events, and assist developers with remediation.
+
+- Static analysis of Java source code.
+- Runtime security event monitoring.
+- Detection and explanation of potential vulnerabilities.
+- AI-assisted fix proposals with developer review.
+
+**Tech:** Java · Spring Boot · React · Semgrep
+
+[View Repository](https://github.com/Hackfest-X-Saividya/sentrix-t2-12)
+
+### 2. TRUSTTRACE AI — Privacy Policy Analyzer
+
+A Chrome extension that analyzes website privacy policies and highlights potential privacy risks.
+
+- Discovers and extracts website privacy policies.
+- Analyzes policy content using RAG-based techniques.
+- Identifies potential risks against India's DPDP Act 2023 and GDPR.
+- Presents risk flags and relevant policy clauses in understandable language.
+
+**Tech:** Python · FastAPI · RAG · ChromaDB · Chrome Extension
+
+### 3. Persistent Context Engine for AI SRE
+
+An incident-memory system developed for the Scaler ASCENT Anvil Hackathon.
+
+- Maintains contextual memory across service incidents.
+- Resolves service identities even when service names change.
+- Supports incident retrieval and remediation workflows.
+- Achieved p95 latency below 1 ms and recall@5 of 1.000 in the reported evaluation.
+
+**Tech:** Python · Information Retrieval · Context Engineering
+
+### 4. AutoSpend — Personal Finance Tracker
+
+A privacy-first personal finance application designed to help users understand and manage their spending.
+
+- On-device bank SMS parsing.
+- Automatic transaction categorization.
+- Duplicate transaction detection.
+- Budget tracking, lending records, and spending analytics.
+- Designed around offline-first operation and data privacy.
+
+**Focus:** Personal Finance · Privacy-First Architecture · Data Analytics
+
+### 5. CareVibe — Elderly Health Monitoring
+
+A health-monitoring solution focused on improving elderly safety and well-being through connected technology.
+
+- Real-time health monitoring.
+- Fall-detection and emergency alert concepts.
+- Designed to support caregivers with timely notifications.
+
+**Tech:** Flutter · Dart · Firebase
+
+### 6. Flight Crew Scheduling System
+
+A scheduling solution designed to support airline crew planning and operational compliance.
+
+- DGCA Flight Duty Time Limitations (FDTL) compliance validation.
+- Crew scheduling and disruption recovery.
+- Rescheduling support for operational changes.
+
+**Tech:** Python · FastAPI · Next.js
+
+---
+
+## 💡 Other Projects & Experiments
 
 <details>
-<summary><b>More projects</b></summary>
+  <summary><b>View additional projects</b></summary>
 
-<br>
+  ### Travel Genie AI
+  An AI-powered travel planning application that helps users explore and organize travel experiences.
 
-| Project | What it does | Tech |
-|---|---|---|
-| **Flight Crew Scheduling System** · Nov – Dec 2025 | Turns DGCA flight duty time limitation (FDTL) rules into validation rules and enforces compliance automatically, with auto-recovery flows that reschedule crew after a disruption. | FastAPI, Next.js |
-| **Travel Genie AI** · Feb 2026 | A travel companion web app that generates interactive interface components with dynamic UI. Built with 3 teammates for a hackathon. | Next.js, React, Groq (Llama 3), Tambo AI |
-| **Insurance Copilot** · Mar 2026 | An LLM-based copilot for complex insurance policy Q&A, shipped within the hackathon deadline (Team Axioms). | LLM APIs |
-| **AI-Based Resume Analyzer & Job Matching System** · Oct – Dec 2025 | Designed the database architecture and schemas for parsing, storing and ranking applicant resumes against job requirements. | SQL |
+  **Tech:** Next.js · React · JavaScript · Groq API · Llama 3 · Tambo AI
+
+  ### Insurance Copilot
+  An AI-powered insurance assistant designed to simplify policy understanding and support insurance workflows.
+
+  - RAG-based insurance policy question answering.
+  - Coverage information extraction.
+  - Pre-authorization workflow assistance.
+
+  **Tech:** Python · LangChain · Groq API · FAISS · Hugging Face Embeddings
+
+  ### AI-Based Resume Analyzer & Job Matching System
+  Designed a SQL database architecture for resume parsing, structured candidate information, and job-matching workflows.
+
+  ### Smart Elderly Health Monitoring System
+  An IoT-based prototype concept for monitoring vital signs and detecting potential falls.
+
+  **Tech:** ESP32 · Arduino · MAX30102 · MPU6050
+
+  ### DAA Algorithm Projects
+  Academic implementations and experiments involving data structures, graph algorithms, dynamic programming, and algorithmic problem-solving.
+
+  **Language:** C
 
 </details>
 
-<!-- Add a repository link for each project when you are ready, for example: [Repository](https://github.com/GaganHR2006/your-repo) -->
+---
+
+## 🏆 Hackathons & Achievements
+
+- Participated in multiple hackathons, collaborating on AI, security, and software engineering solutions.
+- Built and presented projects including Travel Genie AI, Insurance Copilot, Persistent Context Engine, and ZeroTrace AI.
+- Worked on application security, AI-powered automation, RAG systems, and intelligent software solutions.
 
 ---
 
-## 💻 Tech Stack
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaganHR2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Gagan's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganHR2006&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=dart,java,py,cpp,c,js,ts,kotlin,html,css&theme=dark" alt="Languages" />
-
-**Mobile & Frontend**
-
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vite,jquery&theme=dark" alt="Mobile & Frontend" />
-
-**Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,firebase,vercel&theme=dark" alt="Backend & Cloud" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Tools" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GaganHR2006&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-<div align="center">
+I'm always interested in collaborating on innovative projects, exploring new technologies, and connecting with fellow developers.
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=GaganHR2006&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=GaganHR2006&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+<p align="center">
+  <a href="https://linkedin.com/in/gaganhr2006">
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/GaganHR2006">
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="35" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/GaganHR84111">
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="35" alt="X" />
+  </a>
+  &nbsp;
+  <a href="mailto:gagangagan3352@gmail.com">
+    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+  </a>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=GaganHR2006&theme=dark&hide_border=true" alt="GitHub streak" />
+<p align="center">
+  <i>Building, learning, and creating — one project at a time.</i>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's connect
-
-I'm always happy to talk about software, hackathons and internships. Reach me at **gagangagan3352@gmail.com**.
-
-[![Profile views](https://komarev.com/ghpvc/?username=GaganHR2006&style=flat-square&color=blue)](https://github.com/GaganHR2006)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GaganHR2006&style=flat-square&color=blue" alt="Profile views" />
+</p>
