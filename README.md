@@ -54,7 +54,11 @@ Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy buildi
 ---
 
 ## 🚀 Featured Projects
+<details>
+  <summary><b>View projects</b></summary>
 
+  <br>
+  
 ### 1. ZeroTrace AI — Application Security Workbench · Oct 2026
 
 A hackathon prototype that connects three stages of security work in one interface: source-code analysis, runtime-event monitoring, and remediation review.
@@ -106,6 +110,8 @@ An AI-powered insurance assistant that simplifies policy understanding and suppo
 
 [View Repository](https://github.com/GaganHR2006/Insurance-Copilot)
 
+</details>
+
 ---
 
 ## 💡 Other Projects & Experiments
@@ -151,18 +157,21 @@ An AI-powered insurance assistant that simplifies policy understanding and suppo
 
 </details>
 
-<!-- Add repository links for Travel Genie AI, Flight Crew Scheduling and the Resume Analyzer when the repos are public. -->
 
 ---
 
 ## 🏆 Hackathons
+<details>
+  <summary><b>View Recent Hackathons</b></summary>
 
+  <br>
 | Date | Project | Event |
 |---|---|---|
 | Oct 2026 | ZeroTrace AI | SVIT HackFest Hackathon |
 | May 2026 | Persistent Context Engine for AI SRE | Scaler ASCENT Anvil Hackathon |
 | Mar 2026 | Insurance Copilot | AI-RENA Hackathon |
 | Feb 2026 | Travel Genie AI | Online Hackathon |
+</details>
 
 ---
 
