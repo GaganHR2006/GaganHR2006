@@ -6,7 +6,7 @@
 
 Computer Science undergraduate at **REVA University, Bengaluru**. I enjoy building practical software products, exploring emerging technologies, and turning ideas into working applications.
 
-**Open to internships in software development and AI/ML.**
+**Open to internships in software development**
 
 </div>
 
