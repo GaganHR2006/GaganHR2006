@@ -73,6 +73,8 @@ A Chrome extension that analyzes website privacy policies and highlights potenti
 
 **Tech:** Python · FastAPI · RAG · ChromaDB · Chrome Extension
 
+[View Repository](https://github.com/GaganHR2006/trusttrace-ai)
+
 ### 3. Persistent Context Engine for AI SRE
 
 An incident-memory system developed for the Scaler ASCENT Anvil Hackathon.
@@ -83,6 +85,8 @@ An incident-memory system developed for the Scaler ASCENT Anvil Hackathon.
 - Achieved p95 latency below 1 ms and recall@5 of 1.000 in the reported evaluation.
 
 **Tech:** Python · Information Retrieval · Context Engineering
+
+[View Repository](https://github.com/GaganHR2006/Anvil-P02-Context-Engine)
 
 ### 4. AutoSpend — Personal Finance Tracker
 
@@ -96,6 +100,8 @@ A privacy-first personal finance application designed to help users understand a
 
 **Focus:** Personal Finance · Privacy-First Architecture · Data Analytics
 
+[View Repository](https://github.com/GaganHR2006/AutoSpend-Tracker)
+
 ### 5. CareVibe — Elderly Health Monitoring
 
 A health-monitoring solution focused on improving elderly safety and well-being through connected technology.
@@ -106,15 +112,18 @@ A health-monitoring solution focused on improving elderly safety and well-being 
 
 **Tech:** Flutter · Dart · Firebase
 
-### 6. Flight Crew Scheduling System
+[View Repository](https://github.com/GaganHR2006/CareVibe-App)
 
-A scheduling solution designed to support airline crew planning and operational compliance.
+### 6. Insurance Copilot
+An AI-powered insurance assistant designed to simplify policy understanding and support insurance workflows.
 
-- DGCA Flight Duty Time Limitations (FDTL) compliance validation.
-- Crew scheduling and disruption recovery.
-- Rescheduling support for operational changes.
+- RAG-based insurance policy question answering.
+- Coverage information extraction.
+- Pre-authorization workflow assistance.
 
-**Tech:** Python · FastAPI · Next.js
+**Tech:** Python · LangChain · Groq API · FAISS · Hugging Face Embeddings
+
+[View Repository](https://github.com/GaganHR2006/Insurance-Copilot)
 
 ---
 
@@ -128,22 +137,19 @@ A scheduling solution designed to support airline crew planning and operational 
 
   **Tech:** Next.js · React · JavaScript · Groq API · Llama 3 · Tambo AI
 
-  ### Insurance Copilot
-  An AI-powered insurance assistant designed to simplify policy understanding and support insurance workflows.
+  ### Flight Crew Scheduling System
 
-  - RAG-based insurance policy question answering.
-  - Coverage information extraction.
-  - Pre-authorization workflow assistance.
+  A scheduling solution designed to support airline crew planning and operational compliance.
 
-  **Tech:** Python · LangChain · Groq API · FAISS · Hugging Face Embeddings
+  - DGCA Flight Duty Time Limitations (FDTL) compliance validation.
+  - Crew scheduling and disruption recovery.
+  - Rescheduling support for operational changes.
+
+**Tech:** Python · FastAPI · Next.js
 
   ### AI-Based Resume Analyzer & Job Matching System
   Designed a SQL database architecture for resume parsing, structured candidate information, and job-matching workflows.
 
-  ### Smart Elderly Health Monitoring System
-  An IoT-based prototype concept for monitoring vital signs and detecting potential falls.
-
-  **Tech:** ESP32 · Arduino · MAX30102 · MPU6050
 
   ### DAA Algorithm Projects
   Academic implementations and experiments involving data structures, graph algorithms, dynamic programming, and algorithmic problem-solving.
@@ -162,45 +168,32 @@ A scheduling solution designed to support airline crew planning and operational 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GaganHR2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Gagan's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganHR2006&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GaganHR2006&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on innovative projects, exploring new technologies, and connecting with fellow developers.
+<p align="center">
+  I'm always interested in collaborating on innovative projects, exploring new technologies, and connecting with fellow developers.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/gaganhr2006">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="45" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/GaganHR2006">
-    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="35" alt="GitHub" />
+    <img src="https://img.icons8.com/fluency/96/github.png" width="45" height="45" alt="GitHub" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/GaganHR84111">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="35" alt="X" />
+    <img src="https://img.icons8.com/ios-filled/100/FFFFFF/twitterx.png" width="45" height="45" alt="X" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:gagangagan3352@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="45" height="45" alt="Gmail" />
   </a>
 </p>
 
 <p align="center">
   <i>Building, learning, and creating — one project at a time.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaganHR2006&style=flat-square&color=blue" alt="Profile views" />
 </p>
